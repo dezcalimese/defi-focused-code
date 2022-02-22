@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "@compound-finance/compound-js": "^0.2.8",
-    "bootstrap": "^5.0.0",
-    "create-next-app": "^10.2.0",
-    "yarn": "^1.22.10"
-  }
-}
